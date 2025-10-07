@@ -44,7 +44,7 @@
 </div>
 ### 👨‍💻 *“Programming isn't about what you know; it's about what you can figure out.”*  — Chris Pine
 
-<img align="center" alt="L GIF" width="500" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy%20L.gif" />
+<img align="center" alt="L GIF" width="400" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy%20L.gif" />
 
 
 **Thanks for visiting! Let's learn and build something amazing together! 🚀**
