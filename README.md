@@ -12,12 +12,12 @@
 <h3 align="center"> Learner |  Researcher | Inventor </h3> 
 <br/>
 
-<img align="left" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
-<img align="center" alt="Cool GIF" width="300" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif" />
+<img align="left" alt="Cool GIF" width="300" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
 
 
-<img align="right" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
+<img align="center" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
