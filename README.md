@@ -16,7 +16,7 @@
 
 <img align="left" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
-<img align="center" alt="Cool GIF" width="500" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
+<img align="center" alt="Cool GIF" width="250" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
 
 
 
@@ -36,5 +36,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahi1243&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+### 👨‍💻 *“Programming isn't about what you know; it's about what you can figure out.”*  — Chris Pine
+
+<img align="center" alt="L GIF" width="400" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy%20L.gif" />
+
+
+**Thanks for visiting! Let's learn and build something amazing together! 🚀**
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
