@@ -46,7 +46,7 @@
 <img align="center" alt="L GIF" width="400" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy%20L.gif" />
 
 
-**Thanks for visiting! Let's learn and build something amazing together! 🚀**
+**Thanks for visiting! Let’s turn caffeine into code and bugs into features. The journey of building never ends 🚀**
 
 </div>
 
