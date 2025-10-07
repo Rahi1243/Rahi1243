@@ -13,9 +13,7 @@
 <br/>
 
 <img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
-<img align="right" alt="Scientist Researching" width="400" src="https://github.com/chatgpt-samples/research-gifs/raw/main/scientist.gif" />
-
-
+<img align="right" alt="Research Animation" width="400" src="https://raw.githubusercontent.com/denysdovhan/spaceship-prompt/master/media/demo.gif">
 
 <img align="center" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
