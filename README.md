@@ -12,9 +12,9 @@
 <h3 align="center"> Learner   Researcher  Inventor </h3> 
 <br/>
 
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
- <img align="center" alt="Science Research" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" alt="Science Lab Research" width="300" src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif">
 
 <img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
