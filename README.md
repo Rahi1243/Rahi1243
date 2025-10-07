@@ -41,12 +41,12 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-### 👨‍💻 *“Programming isn't about what you know; it's about what you can figure out.”*  — Chris Pine
+### 🌐 *“Programming isn't about what you know; it's about what you can figure out.”*  — Chris Pine
 
 <img align="center" alt="L GIF" width="400" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy%20L.gif" />
 
 
-**Thanks for visiting! Let’s turn caffeine into code and bugs into features. The journey of building never ends 🚀**
+** Thanks for visiting! Let’s turn caffeine into code and bugs into features. The journey of building never ends 👨‍💻**
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 </div>
