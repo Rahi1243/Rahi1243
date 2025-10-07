@@ -17,7 +17,7 @@
 <img align="left" alt="Cool GIF" width="250" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
 
 
-<img align="center" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
+<img align="middle center" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
