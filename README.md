@@ -16,7 +16,7 @@
 
 <img align="left" alt="AI" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
-<img align="center" alt="Cool GIF" width="550" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
+<img align="center" alt="Cool GIF" width="500" src="https://raw.githubusercontent.com/Rahi1243/assets/main/giphy.gif">
 
 
 
